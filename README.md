@@ -21,6 +21,7 @@ This project is designed for learning purposes, portfolio showcase, and as a sol
 * 🛠️ Clean service and repository layers
 * ⚠️ Global exception handling
 * 📄 Swagger / OpenAPI documentation
+* 🧪 Unit tests for service layer (JUnit 5 + Mockito)
 * 🌐 Ready to be connected to a modern frontend UI
 
 ---
@@ -32,8 +33,9 @@ This project is designed for learning purposes, portfolio showcase, and as a sol
 * 🌐 **Spring Web**
 * 🗃️ **Spring Data JPA**
 * 🐘 **Hibernate**
-* 🗄️ **H2 / PostgreSQL** (configurable)
+* 🗄️ **H2**
 * 🧩 **Lombok**
+* 🧪 **JUnit 5 / Mockito**
 * 📜 **Swagger (springdoc-openapi)**
 
 ---
