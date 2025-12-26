@@ -1,7 +1,0 @@
-{
-    "java.compile.nullAnalysis.mode": "automatic",
-    "cSpell.words": [
-        "hbdev"
-    ],
-    "java.configuration.updateBuildConfiguration": "interactive"
-}
